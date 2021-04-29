@@ -19,7 +19,7 @@ const songs = [
 		artist: 'Ryan Farish'
 	},
 	{
-		name: 'Touch-The-Sky',
+		name: 'Touch-the-sky',
 		displayName: 'Touch The Sky',
 		artist: 'Ryan Farish'
 	},
